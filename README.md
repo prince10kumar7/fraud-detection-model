@@ -1,4 +1,4 @@
-# Proactive Fraud Detection System
+# Fraud Detection System
 
 ## Overview
 This project builds a machine learning–based system to proactively detect fraudulent financial transactions. The solution handles severe class imbalance and provides both technical and business-level insights.
